@@ -1,1 +1,1 @@
-# dependent-maven-projects-teamcity-config
+TeamCity Kotlin DSL configuration for building the https://github.com/antonarhipov/application[Application] and https://github.com/antonarhipov/component[Component]. See the https://medium.com/@antonarhipov/building-dependant-maven-projects-d2b71963827a[blog post] for description.
