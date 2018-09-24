@@ -1,0 +1,1 @@
+# dependent-maven-projects-teamcity-config
